@@ -1,1 +1,0 @@
-Starting point for accessing CryptoCompare API data via URL and training the Random Cut Forest algorithm in SageMaker. The SageMaker portion still needs a lot of work - some confusion over how to establish container and SageMaker sessions with appropriate authorization.
